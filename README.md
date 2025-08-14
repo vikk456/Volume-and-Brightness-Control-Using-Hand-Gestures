@@ -7,8 +7,8 @@ It uses **OpenCV** for video capture, **MediaPipe** for hand tracking, and addit
 
 ## 📂 Files in This Repository
 
-- **Brightness.py** → Adjusts **screen brightness** based on the distance between your thumb and index finger.
-- **VolumeControl.py** → Adjusts **system volume** based on the distance between your thumb and index finger.
+- **VolumeControl.py** → Adjusts **system volume** based on the distance between your thumb and index finger.****
+- Change **Mode** by pinching your **Thumb** and **Pinky** together
 - **HandTrackingModule.py** → A reusable module for detecting hands and landmarks using **MediaPipe**.
 
 ---
